@@ -1,0 +1,18 @@
+  {
+  "name": "Fr. Police Dept.",
+  "street": "123 Rue Foo",
+  "city": "Paris",
+  "province": "cele-de-France",
+  "country": "France",
+  "people": [
+    {
+      "title": "Chief Inspector",
+      "name": "Francois Dryefus",
+      "id": "321-32-1233",
+      "tel": "123-123-1233",
+      "dob": "09/22/1948",
+      "email": "dreyfusf@pp.pd.gov.fr"
+   },
+  ]
+
+}
