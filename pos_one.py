@@ -28,7 +28,8 @@ class Minkey:
         self.username = 'root'
 
 
-    def get_password(self,user):
+    def change_password(self,user):
         u = User(user)
-        return u.password
+        pwd = u.change_password('rand')
+        return pwd 
 
