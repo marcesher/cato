@@ -13,7 +13,7 @@ class Massage:
 
 
     def __unicode__(self):
-        return "I want from you the massagem you idiot!"
+        return "I want from you the massagem, you idiot!"
 
 
 

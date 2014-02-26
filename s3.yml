@@ -1,0 +1,7 @@
+development:
+    bucket: foo
+    access_key_id: ENV['bar']
+
+# Simple test file that should not be committed.
+
+
