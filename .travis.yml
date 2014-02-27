@@ -1,0 +1,4 @@
+language: python
+
+script:
+    - bash <(curl -s https://raw.github.com/dlapiduz/clouseau/travis/travis_clouseau.sh)
