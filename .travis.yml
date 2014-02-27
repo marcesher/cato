@@ -4,3 +4,5 @@ script:
 env:
   matrix:
     secure: pud1jPySiF4RlS7IqLRL3ZQB4fKkp+ZSAlKszd0EE7pqvNSGLvuGuqib+Pq4o4jqG9dMP3wY57/pYTi5BPd0Xtqp4sHEF9XbQJt/39dqnl1QYjNXQk0aNwTgZkVooh/x47Q0Kxi6SHb4xSBuUc3se4FpUgpCwIZiZC3MITy4hSM=
+  global:
+    secure: EDK9PFb7CJovMFtzInGbgs1kFJeTKK3SYN8tNSeQZbxrejgoNVDxzLl2w4m7An1NrV9moMoFa2uGZe8sF102C1PFYim5YqXYZSHIJnvBAddN6lMA/Z+3i0ktLI3iE15XAdkgBGz6GqeJUDLtAaLixNkA9t8qBV52BI08Ulh/fWQ=
