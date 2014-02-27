@@ -1,6 +1,6 @@
 language: python
 script:
-- bash <(curl -s https://raw.github.com/dlapiduz/clouseau/travis/travis_clouseau.sh)
+- bash <(curl -s https://raw.github.com/marcesher/clouseau/travis/travis_clouseau.sh)
 env:
   global:
     secure: EDK9PFb7CJovMFtzInGbgs1kFJeTKK3SYN8tNSeQZbxrejgoNVDxzLl2w4m7An1NrV9moMoFa2uGZe8sF102C1PFYim5YqXYZSHIJnvBAddN6lMA/Z+3i0ktLI3iE15XAdkgBGz6GqeJUDLtAaLixNkA9t8qBV52BI08Ulh/fWQ=
