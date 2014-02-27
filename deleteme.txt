@@ -1,6 +1,6 @@
 Hello World
 my password=IWannaRock
-my username=IWantToRockGoGoGoGoGo
+my username=IWantToRockGoGoGoGo
 my SSN=GoGoGoGoGo
 no for real it's 222-33-4445
 For a good time call 888-867-5309
