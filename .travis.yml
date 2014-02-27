@@ -1,4 +1,6 @@
 language: python
-
 script:
-    - bash <(curl -s https://raw.github.com/dlapiduz/clouseau/travis/travis_clouseau.sh)
+- bash <(curl -s https://raw.github.com/dlapiduz/clouseau/travis/travis_clouseau.sh)
+env:
+  matrix:
+    secure: pud1jPySiF4RlS7IqLRL3ZQB4fKkp+ZSAlKszd0EE7pqvNSGLvuGuqib+Pq4o4jqG9dMP3wY57/pYTi5BPd0Xtqp4sHEF9XbQJt/39dqnl1QYjNXQk0aNwTgZkVooh/x47Q0Kxi6SHb4xSBuUc3se4FpUgpCwIZiZC3MITy4hSM=
